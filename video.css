@@ -15,8 +15,8 @@
     
   }
       .thumbnail {
-        width: 100%;
-       ;
+        width: 96%;
+       border-radius: 15px;
         
       }
 .vid-t{
@@ -25,9 +25,9 @@
   position: absolute;
   bottom: 0;
   right: 0 ;
-  margin-bottom: 6px;
-  margin-right: 3px;
-  border-radius: 2px;
+  margin-bottom: 10px;
+  margin-right: 21px;
+  border-radius: 4px;
 
 }
      
@@ -82,7 +82,7 @@
       .video-grid{
         margin-left: 10px;
         margin-right: 10px;
-       margin-top: 100px;
+       margin-top: 50px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         column-gap: 16px;
